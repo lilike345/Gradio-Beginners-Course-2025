@@ -6,6 +6,8 @@ The course is created and hosted by the YouTube channel, **Gradio Guy**.
 
 [![Kq-Ajmp-Lx-V6w-HD.jpg](https://i.postimg.cc/26vgN5Nj/Kq-Ajmp-Lx-V6w-HD.jpg)](https://postimg.cc/wyqwhgBn)
 
+Video Link: [Video Link](https://youtu.be/KqAjmpLxV6w)
+
 Whether you're a developer, data scientist, or an AI enthusiast, this repository provides the code and resources you need to follow along with every lesson.
 
 -----
