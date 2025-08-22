@@ -4,7 +4,7 @@ Welcome to the official companion repository for the **"Mastering Gradio from Sc
 
 The course is created and hosted by the YouTube channel, **Gradio Guy**.
 
-[](https://www.youtube.com/@gradioguy)
+![](https://www.youtube.com/@gradioguy)
 
 Whether you're a developer, data scientist, or an AI enthusiast, this repository provides the code and resources you need to follow along with every lesson.
 
